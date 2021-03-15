@@ -1,0 +1,10 @@
+datefinder==0.7.1
+opencv-python==4.3.0.38
+pdf2image==1.13.1
+pdfplumber==0.5.22
+PyPDF2==1.26.0
+pytesseract==0.3.4
+python-dateutil==2.8.1
+PyYAML==5.3.1
+simplejson==3.17.2
+tqdm==4.48.2
